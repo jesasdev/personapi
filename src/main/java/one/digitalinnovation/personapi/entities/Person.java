@@ -1,10 +1,9 @@
-package one.digitalinnovation.personapi;
+package one.digitalinnovation.personapi.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.personapi.entities.Phone;
 
 import javax.persistence.*;
 import java.time.LocalDate;
